@@ -2,7 +2,7 @@ body {
 	background: black;
 }
 .postcard {
-	background: white;
+	background: rgb(255, 209, 209);
 	width: 400px;
 	height: 300px;
 	margin: auto;
@@ -10,6 +10,7 @@ body {
 .postcard-header {
 	display: flex;
 	padding: 10px 10px 0px 10px;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .postcard-header img {
 	width: 50px;
@@ -43,7 +44,7 @@ p {
 	text-align: center;
 }
 button {
-	background-color: rgb(199, 195, 195);
+	background-color: rgb(240, 146, 146);
 	padding: 10px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
